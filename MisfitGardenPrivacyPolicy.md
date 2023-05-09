@@ -8,5 +8,5 @@ The only data that is created by users is app preferences (music toggle and dail
 
 If you have any questions or concerns about your privacy while using the app, please send me an email at Fishy_F1shyGames@outlook.com
 
-Yours sinsincerely,
+Yours sincerely,
 Bryan Huke
